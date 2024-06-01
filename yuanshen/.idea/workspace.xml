@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb305823-e8ae-46eb-a6b3-403202391035" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2R3xkqjVy5wqjSWRibhRYuPd66u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/我的/【重要】班级策划资料/yuanshen/src/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\我的\【重要】班级策划资料\yuanshen\src\resources" />
+      <recent name="D:\我的\【重要】班级策划资料\yuanshen\src\resources\image" />
+      <recent name="D:\App\IDEA\项目\yuanshen\src\resources\image" />
+      <recent name="D:\App\IDEA\项目\yuanshen\src\resources" />
+      <recent name="D:\App\IDEA\项目\yuanshen\src\menu" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\我的\【重要】班级策划资料\yuanshen\src\resources\image\Hero\Five\Big" />
+      <recent name="D:\App\IDEA\项目\yuanshen\src\resources\image" />
+      <recent name="D:\App\IDEA\项目\yuanshen\src" />
+      <recent name="D:\App\IDEA\项目\yuanshen\src\menu" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="原神抽卡模拟beta版" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fb305823-e8ae-46eb-a6b3-403202391035" name="更改" comment="" />
+      <created>1686492715396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686492715396</updated>
+      <workItem from="1686492716413" duration="44869000" />
+      <workItem from="1686781581119" duration="114176000" />
+      <workItem from="1687143463340" duration="41000" />
+      <workItem from="1687144983795" duration="331000" />
+      <workItem from="1687145427491" duration="15971000" />
+      <workItem from="1687239329837" duration="3226000" />
+      <workItem from="1688980894866" duration="1935000" />
+      <workItem from="1690018521366" duration="19825000" />
+      <workItem from="1690537254928" duration="23747000" />
+      <workItem from="1690565084584" duration="4441000" />
+      <workItem from="1690628739295" duration="31264000" />
+      <workItem from="1690777128143" duration="8569000" />
+      <workItem from="1690876418196" duration="13502000" />
+      <workItem from="1690963988851" duration="5366000" />
+      <workItem from="1690970823428" duration="20628000" />
+      <workItem from="1691221134649" duration="1432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GameFrame.java</url>
+          <line>241</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/yuanshen$Main.ic" NAME="Main 覆盖结果" MODIFIED="1687080819745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
